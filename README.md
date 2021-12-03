@@ -28,6 +28,7 @@ Generate your own Christmas trees by entering some numbers. Ornaments are also g
 |  `w`  |  White   |
 |  `k`  |  Black   |
 
-## Suggested Value Output
+## Examples
 
-![Example](https://github.com/pythonian23/xmastree/raw/master/screenshot.png)
+![Example](https://github.com/pythonian23/xmastree/raw/master/screenshot0.png)
+![Example](https://github.com/pythonian23/xmastree/raw/master/screenshot1.png)
