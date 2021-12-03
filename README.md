@@ -13,17 +13,21 @@ Generate your own Christmas trees by entering some numbers. Ornaments are also g
 |     Trunk height |       `3`       | What the `Input Label` says.                                                                                         |
 |      Trunk width |       `2`       | ((What the `Input Label` says) -1)/2 *(Actual width will be (input+1)/2)*                                            |
 |       Body color |       `g`       | Color of the leafy part of the tree.                                                                                 |
-| Background color |       `c`       | What the `Input Label` says.                                                                                         |
+| Background color |       `k`       | What the `Input Label` says.                                                                                         |
 |      Trunk color |       `y`       | What the `Input Label` says.                                                                                         |
 
 ## Color guide
-| Label |  Color  |
-|:-----:|:-------:|
-|  `b`  |  Blue   |
-|  `c`  |  Cyan   |
-|  `g`  |  Green  |
-|  `m`  |  Magent |
-|  `r`  |  Red    |
-|  `y`  |  Yellow |
-|  `w`  |  White  |
-|  `k`  |  Black  |
+| Label |   Color  |
+|:-----:|:--------:|
+|  `b`  |  Blue    |
+|  `c`  |  Cyan    |
+|  `g`  |  Green   |
+|  `m`  |  Magenta |
+|  `r`  |  Red     |
+|  `y`  |  Yellow  |
+|  `w`  |  White   |
+|  `k`  |  Black   |
+
+## Suggested Value Output
+
+![Example](https://github.com/pythonian23/xmastree/raw/master/screenshot.png)
