@@ -3,6 +3,18 @@
 Generate your own Christmas trees by entering some numbers. Ornaments are also generated.
 
 
+## Dependencies
+
+- Python 3
+- `colorama` (for colored output)
+- `numpy` (for randomized ornament generation)
+
+
+## Note
+
+- Make sure you run it in an environment that can display color.
+
+
 ## Input Guide
 |      Input Label | Suggested Value | Description                                                                                                          |
 |-----------------:|:---------------:|:---------------------------------------------------------------------------------------------------------------------|
@@ -16,7 +28,9 @@ Generate your own Christmas trees by entering some numbers. Ornaments are also g
 | Background color |       `k`       | What the `Input Label` says.                                                                                         |
 |      Trunk color |       `y`       | What the `Input Label` says.                                                                                         |
 
+
 ## Color guide
+
 | Label |   Color  |
 |:-----:|:--------:|
 |  `b`  |  Blue    |
@@ -27,6 +41,7 @@ Generate your own Christmas trees by entering some numbers. Ornaments are also g
 |  `y`  |  Yellow  |
 |  `w`  |  White   |
 |  `k`  |  Black   |
+
 
 ## Examples
 
