@@ -11,7 +11,7 @@ Generate your own Christmas trees by entering some numbers. Ornaments are also g
 |         Interval |       `6`       | Number of rows between the "spiky" parts.                                                                            |
 |        Frequency |       `0.1`     | Frequency of the appearance of ornaments.                                                                            |
 |     Trunk height |       `3`       | What the `Input Label` says.                                                                                         |
-|      Trunk width |       `2`       | ((What the `Input Label` says) -1)/2 *(Actual width will be (input+1)/2)*                                            |
+|      Trunk width |       `2`       | ((What the `Input Label` says) -1)/2 *(Actual width will be input\*2 + 1)*                                           |
 |       Body color |       `g`       | Color of the leafy part of the tree.                                                                                 |
 | Background color |       `c`       | What the `Input Label` says.                                                                                         |
 |      Trunk color |       `y`       | What the `Input Label` says.                                                                                         |
